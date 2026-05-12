@@ -1989,12 +1989,12 @@
       }
     },
     {
-      "id": "gemini-3.1-pro-high",
+      "id": "gemini-pro-agent",
       "object": "model",
       "owned_by": "antigravity",
       "type": "antigravity",
       "display_name": "Gemini 3.1 Pro (High)",
-      "name": "gemini-3.1-pro-high",
+      "name": "gemini-pro-agent",
       "description": "Gemini 3.1 Pro (High)",
       "context_length": 1048576,
       "max_completion_tokens": 65535,
